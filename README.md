@@ -1,4 +1,4 @@
-# # Titanic - Machine Learning from Disaster Part1
+# Titanic - Machine Learning from Disaster Part1
 
 * Utilizando os [dados disponíveis no Kaggle](https://www.kaggle.com/competitions/titanic) para tentar prever a porcentagem de passageiros que sobreviveram ao desastre. A intenção é obter a maior acurácia possível.
 <hr>
